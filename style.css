@@ -1,0 +1,95 @@
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background: #000;
+  font-size: 400px;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+}
+.letter1 {
+  position: absolute;
+  left: 0;
+  top: 30%;
+}
+.letter2 {
+  position: absolute;
+  left: 20%;
+  top: 0;
+}
+.letter3 {
+  position: absolute;
+  left: 60%;
+  top: 50%;
+}
+.letter4 {
+  position: absolute;
+  left: 80%;
+  top: 80%;
+}
+.letter5 {
+  position: absolute;
+  left: 10%;
+  top: 120%;
+}
+.letter6 {
+  position: absolute;
+  left: 20%;
+  top: 130%;
+}
+.letter7 {
+  position: absolute;
+  left: 60%;
+  top: 220%;
+}
+.letter8 {
+  position: absolute;
+  left: 10%;
+  top: 250%;
+}
+.box1 {
+  background-color: #5a5a5a;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 34%;
+  left: 4%;
+}
+.box2 {
+  background-color: #5a5a5a;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 56%;
+  left: 60%;
+}
+.box3 {
+  background-color: #5a5a5a;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 100%;
+  left: 12%;
+}
+.box4 {
+  background-color: #5a5a5a;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 160%;
+  left: 55%;
+}
+.box5 {
+  background-color: #5a5a5a;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 210%;
+  left: 9%;
+}
